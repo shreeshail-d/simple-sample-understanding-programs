@@ -1,0 +1,16 @@
+# cere_libre_tracker
+
+CereLibreTracker is a Python utility for modifying OpenDocument Text (ODT) files. It allows users to add, delete, and
+replace text while logging all operations using new-dtect-logging.
+
+## v.1.0.0
+
+### Features
+
+Add Text After Match: Inserts text after the first occurrence of a specified string.
+
+Delete Text: Removes the first occurrence of a specified string.
+
+Replace Text: Replaces the first occurrence of a specified string with another.
+
+Logging: Uses new-dtect-logging to log operations for debugging and tracking changes.
